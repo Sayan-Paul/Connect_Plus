@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.main_navigation {
+color: #333333;
+font-size: 14px;
+background-color: #E2E1FF;
+-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,0.3);
+-moz-box-shadow: 0 1px 1px 0 rgba(0,0,0,0.3);
+box-shadow: 0 1px 1px 0 rgba(0,0,0,0.3);
+top: 0;
+left: 0;
+width: 100%;
+padding: 10px 0;
+z-index: 50;
+}
+
+
+body 
+{
+	width:100%;
+	min-width:1366px;
+	font-family:"Segoe UI", "verdana", "arial";
+}
+h3 {font-weight:300;}
+td{vertical-align:top;}
